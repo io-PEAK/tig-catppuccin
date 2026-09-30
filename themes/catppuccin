@@ -1,6 +1,7 @@
 # Base
 color default                           25          black
 color cursor                            black       magenta
+color cursor-blur                       black       green
 color status                            magenta     black  
 color title-focus                       black       magenta
 color title-blur                        magenta     black
